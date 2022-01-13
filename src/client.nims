@@ -1,0 +1,2 @@
+--outdir:bin
+--threads:on

@@ -38,7 +38,7 @@ If the language has been installed, you should get output that closely resembles
 
 If, however, you'd like to download and install [Nim](https://nim-lang.org/, "Visit the language's official Website"), you can easily follow the official [download instructions](https://nim-lang.org/install.html), and you'll be all set!
 
-> In addition, you need to make sure you have [Nimble](https://github.com/nim-lang/nimble, "View tool on GitHub"), the default package manager for the [Nim](https://nim-lang.org/, "Visit the language's official Website") installed. If you are using Nim version 0.15.0 odd, or greater, you most probably have it installed, since Nim installation packages have been including it since then.
+> In addition, you need to make sure you have [Nimble](https://github.com/nim-lang/nimble, "View tool on GitHub"), the default package manager for [Nim](https://nim-lang.org/, "Visit the language's official Website") installed. If you are using Nim version 0.15.0 odd, or greater, you most probably have it installed, since Nim installation packages have been including it since then.
 
 ## Compilation
 

@@ -60,7 +60,7 @@ If everyting goes on well, you should get output along the following lines:
     Compiling src/server (from package client_server_app) using c backend
     Success: Execution finished
 
-The output may, of course, vary. I already had the required dependency installed, and as such, got the above aoutput. If, however, the said dependency insn't installed, you should see output informing you that Nimble is attempting to fetch it.
+The output may, of course, vary. I already had the required dependency installed, and as such, got the above output. If, however, the said dependency insn't installed, you should see output informing you that Nimble is attempting to fetch it.
 
 Similary, to compile the client binary, from the project's root, issue the following command:
 

@@ -18,7 +18,7 @@ production ready project.
 
 ### Requirements for Source Code Compilation
 
-If you wih to compile the source code on your own, it's relatively easy to do so. Make sure you've installed the [Nim Programming Language](https://nim-lang.org/, "Visit the language's official Website") somewhere on your system.
+If you wish to compile the source code on your own, it's relatively easy to do so. Make sure you've installed the [Nim Programming Language](https://nim-lang.org/, "Visit the language's official Website") somewhere on your system.
 To check if you have the said language installed, fire up a terminal, or command prompt and issue the following command:
 
     $ nim -v

@@ -50,7 +50,7 @@ or this:
 
     $ nimble compile src/server.nim
 
-> Using **nimble** instead of **nim** to compile your .nim source code files makes sure the dependencies specified in the project's .nimble file have first been installed, before proceeding with the compilation.
+> Using **nimble compile** instead of **Nim compile** to compile your .nim source code files makes sure the dependencies specified in the project's .nimble file have first been installed, before proceeding with the compilation.
 
 If everyting goes on well, you should get output along the following lines:
 
